@@ -1,0 +1,45 @@
+body{
+	/*text-align: center;*/
+	font-family: 'Lucida Grande', 'Georgia', Serif;
+}
+.title{
+	color: #3CB371;
+	text-align: center;
+}
+.content{
+	font-size: 16px;
+	font-size-adjust: 0.58;
+	text-align: center;
+	width: 50%;
+	height: 40%;
+	margin: 0 auto;
+	border: pink solid 2px;
+	position: relative;
+	padding: 20% auto;
+}
+.classMargin{
+	margin-bottom: 2%;
+	margin-top: 2%;
+}
+label{
+	font-family: 'Lucida Grande';
+	font-size: 1em;
+}
+textarea{
+	width: 80%;
+}
+.textInput{
+	width: 50%;
+	border: #48D1CC solid 1px;
+}
+.buttonPost{
+	width: 50%;
+	font-size: 1rem;
+}
+.post{
+	width: 50%;
+	height: 40%;
+	border: pink solid 2px;
+	margin: 0 auto;
+	margin-top: 2%;
+}

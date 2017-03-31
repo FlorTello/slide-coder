@@ -37,9 +37,10 @@ textarea{
 	font-size: 1rem;
 }
 .post{
-	width: 50%;
+	width: 48%;
 	height: 40%;
-	border: pink solid 2px;
+	border: #7FFFD4 solid 2px;
+	box-shadow: 1px 1px 1px 1px blue;
 	margin: 0 auto;
 	margin-top: 2%;
 }
